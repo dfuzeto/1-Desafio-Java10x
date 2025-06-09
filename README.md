@@ -1,4 +1,4 @@
-# 🥷 Desafio Java10x - Missão Ninja
+# Desafio Java10x - Missão Ninja
 
 Este projeto é uma simulação simples de um sistema de missões no estilo "Naruto", feito em Java como parte do desafio **Java10x**.
 
